@@ -1,6 +1,6 @@
 # Sinif-Gecme-Programi
 
-## Java Programlama Dilinde KSinif Gecme Programi
+## Java Programlama Dilinde Sinif Gecme Programi
 
 Programa aşağıdaki bağlantıdan ulaşabilirsiniz.
 
